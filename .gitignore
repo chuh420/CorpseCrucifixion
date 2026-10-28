@@ -1,0 +1,3 @@
+devtools/*.png
+devtools/mouse.fifo
+__pycache__/

@@ -1,0 +1,9 @@
+{
+    "Tooltip_PZC_Description": "Nail the body to a wooden cross, a wall, a fence, a tree or any solid object. Move the cursor to pick the spot and press R to turn the body. A green outline means the spot works. The body keeps its clothes and belongings.",
+    "Tooltip_PZC_Hammer": "Hammer",
+    "Tooltip_PZC_Nails": "Nails: %1 / %2",
+    "Tooltip_PZC_TakeDownDescription": "Pull out the nails and lower the body to the ground. You get the nails back.",
+    "Tooltip_PZC_PullTool": "Hammer or crowbar",
+    "Tooltip_PZC_WoodenCross": "Right-click it in your inventory to set it up. Once it stands, you can crucify a corpse on it.",
+    "Tooltip_PZC_MakeWoodenCross": "Nail two planks into a cross tall enough to hang a body on."
+}

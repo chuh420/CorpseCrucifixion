@@ -1,0 +1,13 @@
+{"aims":[
+ ["Bip01_Head","Bip01_HeadNub",[0.06,1.105,0.015]],
+ ["Bip01_L_Thigh","Bip01_L_Calf",[0.05,0.468,-0.03]],
+ ["Bip01_L_Calf","Bip01_L_Foot",[0.036,0.29,-0.05]],
+ ["Bip01_L_Foot","Bip01_L_Toe0",[0.034,0.21,0.005]],
+ ["Bip01_R_Thigh","Bip01_R_Calf",[-0.05,0.468,-0.03]],
+ ["Bip01_R_Calf","Bip01_R_Foot",[-0.036,0.29,-0.05]],
+ ["Bip01_R_Foot","Bip01_R_Toe0",[-0.034,0.21,0.005]],
+ ["Bip01_L_UpperArm","Bip01_L_Forearm",[0.245,0.958,-0.055]],
+ ["Bip01_L_Forearm","Bip01_L_Hand",[0.375,0.95,-0.06]],
+ ["Bip01_R_UpperArm","Bip01_R_Forearm",[-0.245,0.958,-0.055]],
+ ["Bip01_R_Forearm","Bip01_R_Hand",[-0.375,0.95,-0.06]]
+]}

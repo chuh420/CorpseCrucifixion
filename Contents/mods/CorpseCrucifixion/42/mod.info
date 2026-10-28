@@ -1,0 +1,8 @@
+name=Corpse Crucifixion
+id=CorpseCrucifixion
+description=Nail corpses to walls, fences, trees or a wooden cross. The body keeps its look, clothes and loot, and you can take it down again.
+author=chuh
+poster=poster.png
+icon=icon.png
+modversion=1.0.0
+versionMin=42.0.0

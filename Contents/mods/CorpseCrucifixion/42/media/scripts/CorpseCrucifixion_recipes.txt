@@ -1,0 +1,22 @@
+module Base
+{
+    craftRecipe PZC_MakeWoodenCross
+    {
+        timedAction = Making,
+        time = 200,
+        Tags = AnySurfaceCraft;Carpentry,
+        category = Carpentry,
+        xpAward = Woodwork:5,
+        Tooltip = Tooltip_PZC_MakeWoodenCross,
+        inputs
+        {
+            item 1 tags[base:hammer] mode:keep flags[MayDegradeVeryLight;Prop1],
+            item 2 [Base.Plank] flags[Prop2],
+            item 2 [Base.Nails],
+        }
+        outputs
+        {
+            item 1 Base.PZC_WoodenCross,
+        }
+    }
+}

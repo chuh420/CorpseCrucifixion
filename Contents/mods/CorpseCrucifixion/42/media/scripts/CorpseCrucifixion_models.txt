@@ -1,0 +1,23 @@
+module Base
+{
+    model PZC_MaleBody
+    {
+        mesh = Skinned/PZC_MaleBody,
+        static = false,
+        animationsMesh = Mannequin_Scarecrow,
+    }
+
+    model PZC_FemaleBody
+    {
+        mesh = Skinned/FemaleBody,
+        static = false,
+        animationsMesh = Mannequin_Scarecrow,
+    }
+
+    model PZC_CrossModel
+    {
+        mesh = Skinned/PZC_Cross,
+        static = false,
+        animationsMesh = Mannequin_Scarecrow,
+    }
+}

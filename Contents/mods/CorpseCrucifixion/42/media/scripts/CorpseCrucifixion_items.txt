@@ -1,0 +1,23 @@
+module Base
+{
+    item PZC_StoredBody
+    {
+        DisplayCategory = Corpse,
+        ItemType = base:normal,
+        Weight = 0.0,
+        Icon = DeadPerson_MaleZombie,
+        WorldRender = false,
+        hidden = true,
+    }
+
+    item PZC_WoodenCross
+    {
+        DisplayCategory = Furniture,
+        ItemType = base:normal,
+        Weight = 6.0,
+        Icon = PZC_WoodenCross,
+        Tooltip = Tooltip_PZC_WoodenCross,
+        RequiresEquippedBothHands = true,
+        Tags = base:heavyitem,
+    }
+}

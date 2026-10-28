@@ -1,0 +1,1048 @@
+module Base
+{
+    mannequin PZC_Cross
+    {
+        female = false,
+        model = PZC_CrossModel,
+        texture = PZC_CrossWood,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody01
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody01,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody01
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody01,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody01_level1
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody01_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody01_level1
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody01_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody01_level2
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody01_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody01_level2
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody01_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody01_level3
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody01_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody01_level3
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody01_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody02
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody02,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody02
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody02,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody02_level1
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody02_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody02_level1
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody02_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody02_level2
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody02_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody02_level2
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody02_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody02_level3
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody02_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody02_level3
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody02_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody03
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody03,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody03
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody03,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody03_level1
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody03_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody03_level1
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody03_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody03_level2
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody03_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody03_level2
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody03_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody03_level3
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody03_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody03_level3
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody03_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody04
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody04,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody04
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody04,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody04_level1
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody04_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody04_level1
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody04_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody04_level2
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody04_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody04_level2
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody04_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_F_ZedBody04_level3
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody04_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_F_ZedBody04_level3
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = F_ZedBody04_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_FemaleBody01
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody01,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_FemaleBody01
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody01,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_FemaleBody02
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody02,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_FemaleBody02
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody02,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_FemaleBody03
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody03,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_FemaleBody03
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody03,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_FemaleBody04
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody04,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_FemaleBody04
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody04,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_FemaleBody05
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody05,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_FemaleBody05
+    {
+        female = true,
+        model = PZC_FemaleBody,
+        texture = FemaleBody05,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody01
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody01,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody01
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody01,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody01_level1
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody01_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody01_level1
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody01_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody01_level2
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody01_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody01_level2
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody01_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody01_level3
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody01_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody01_level3
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody01_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody02
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody02,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody02
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody02,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody02_level1
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody02_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody02_level1
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody02_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody02_level2
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody02_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody02_level2
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody02_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody02_level3
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody02_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody02_level3
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody02_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody03
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody03,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody03
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody03,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody03_level1
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody03_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody03_level1
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody03_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody03_level2
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody03_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody03_level2
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody03_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody03_level3
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody03_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody03_level3
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody03_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody04
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody04,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody04
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody04,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody04_level1
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody04_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody04_level1
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody04_level1,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody04_level2
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody04_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody04_level2
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody04_level2,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_M_ZedBody04_level3
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody04_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_M_ZedBody04_level3
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = M_ZedBody04_level3,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody01
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody01,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody01
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody01,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody01a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody01a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody01a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody01a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody02
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody02,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody02
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody02,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody02a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody02a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody02a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody02a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody03
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody03,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody03
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody03,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody03a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody03a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody03a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody03a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody04
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody04,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody04
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody04,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody04a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody04a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody04a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody04a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody05
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody05,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody05
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody05,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+    mannequin PZC_MaleBody05a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody05a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose01,
+        outfit = none,
+    }
+
+    mannequin PZC_X_MaleBody05a
+    {
+        female = false,
+        model = PZC_MaleBody,
+        texture = MaleBody05a,
+        animSet = mannequin,
+        animState = pzc_crucified,
+        pose = pose02,
+        outfit = none,
+    }
+
+}

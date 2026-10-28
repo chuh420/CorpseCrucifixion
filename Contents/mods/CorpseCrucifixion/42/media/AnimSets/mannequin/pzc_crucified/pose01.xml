@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animNode>
+	<m_Name>pose01</m_Name>
+	<m_AnimName>Bob_PZC_Wall</m_AnimName>
+	<m_BlendTime>0.20</m_BlendTime>
+	<m_SpeedScale>0.80</m_SpeedScale>
+	<m_Conditions x_name="8d1c2f4e-5b7a-4c3e-9f21-6a0b3d7e9c15">
+		<m_Name>Pose</m_Name>
+		<m_Type>STRING</m_Type>
+		<m_Value>pose01</m_Value>
+	</m_Conditions>
+</animNode>
